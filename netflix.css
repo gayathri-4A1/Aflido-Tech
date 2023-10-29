@@ -1,0 +1,231 @@
+#gayi{
+    background-image: url('./nbg.png');
+}
+body{
+    background-color: grey;
+}
+#bimage{
+    background-image: url('./nbg.png');
+    height: 100%;
+    width: 100%;
+}
+.signin{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+.get{
+    background-color: red;
+
+}
+form{
+    background-color: rgba(0, 0, 0, 0.406);
+    height: 520px;
+    width: 500px;
+}
+#form{
+    border-color: rgba(0, 0, 0, 0.406);
+    height: 500px;
+    width: 470px;
+}
+#email{
+    height: 40px;
+    width: 300px;
+    background-color: rgba(128, 128, 128, 0.317);
+}
+#password{
+    height: 40px;
+    width: 300px;
+    background-color:rgba(128, 128, 128, 0.317);
+}
+#sign{
+    height: 40px;
+    width: 300px;
+    color: white;
+    background-color:red;
+    border-color: red;
+}
+#address{
+    height: 70px;
+    width: 500px;
+}
+#get{
+    height: 80px;
+    width: 200px;
+    font-size: 20px;
+    background-color: red;
+    border-color: red;
+}
+#in{
+        height: 30px;
+        width: 80px;
+        background-color: red;
+}
+#get1{
+    text-decoration: none;
+    color: white;
+}
+#sign1{
+    text-decoration: none;
+    color: white;
+    
+}
+#need{
+    text-decoration: none;
+    color: white;
+}
+#up{
+    text-decoration: none;
+    color: white;
+}
+#tv1{
+    color: white;
+    font-size: 50px;
+    font-style: normal;
+}
+#tv2{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+#show{
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+}
+#show1{
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+}
+#show2{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+#show3{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+#watch{
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+}
+#watch1{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+#watch2{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+#profile{
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+}
+#profile1{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+#table1{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    
+}
+#table2{
+    background-color: black;
+    width: 100%;
+    height:400px;
+}
+#table3{
+    background-color: black;
+    width: 100%;
+    height:400px;
+}
+#table4{
+    background-color: black;
+    width: 100%;
+    height:400px;
+}
+#bcolor{
+    background-color: black;
+}
+#freq{
+    color: white;
+    width: 100%;
+    height:500px;
+    font-size: 50px;
+    font-style: normal;
+}
+#flix{
+    background-color:rgba(128, 128, 128, 0.466);
+    width: 600px;
+    height:100px;
+    
+}
+#fli{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+    text-decoration: none;
+}
+#plus{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+    text-decoration: none;
+}
+#info{
+    color:rgba(128, 128, 128, 0.927);
+    text-decoration: none;
+}
+#last{
+    background-color:black;
+}
+#flix1{
+    background-color:rgba(128, 128, 128, 0.009);
+    width: 120px;
+    height:50px;
+    border-color: white;
+    text-decoration: none;
+    text-align: left;
+}
+#fli1{
+    color: gray;
+    font-size: 20px;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+}
+#last1{
+    background-color:rgba(0, 0, 0, 0.402);
+    height: 400px;
+}
+#eng{
+    background-color:rgba(0, 0, 0, 0);
+    height: 30px;
+    width: 80px;
+    border-color: white;
+    text-decoration: none;
+}
+#netflix{
+   font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
